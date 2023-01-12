@@ -1,0 +1,15 @@
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\bin\Debug\net7.0\Homework_9_1.exe
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\bin\Debug\net7.0\Homework_9_1.deps.json
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\bin\Debug\net7.0\Homework_9_1.runtimeconfig.json
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\bin\Debug\net7.0\Homework_9_1.dll
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\bin\Debug\net7.0\Homework_9_1.pdb
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\Homework_9_1.csproj.AssemblyReference.cache
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\Homework_9_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\Homework_9_1.AssemblyInfoInputs.cache
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\Homework_9_1.AssemblyInfo.cs
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\Homework_9_1.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\Homework_9_1.dll
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\refint\Homework_9_1.dll
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\Homework_9_1.pdb
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\Homework_9_1.genruntimeconfig.cache
+C:\Users\Huynh Cong Chien\source\repos\Homework_9_1\Homework_9_1\obj\Debug\net7.0\ref\Homework_9_1.dll
